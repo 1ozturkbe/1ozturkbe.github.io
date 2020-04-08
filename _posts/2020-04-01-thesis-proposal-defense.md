@@ -11,7 +11,6 @@ My committee members include Prof. Mark Drela, Prof. Dimitris Bertsimas and Prin
 Robert Haimes. I hope to update the website with some of my accomplishments and future
 work soon! But here is the abstract:
 
-```
 *There is a need to adapt and improve conceptual design methods
 through better optimization, to address the challenge of
 designing future engineered systems. Aerospace design problems
@@ -40,7 +39,6 @@ to develop a global SP framework for engineering design.
 The proposed methods will solve engineering design problems efficiently
 and deterministically, and keep practical concerns for conceptual design
 in focus.*
-```
 
 
-[back]({{site.baseurl}})
+[back]({{ site.url }}/blog)
