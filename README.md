@@ -1,6 +1,5 @@
 ---
-layout: page
-title: About Me
+layout: default
 ---
 
 <img src="data/me-cropped.jpg" width="300">
