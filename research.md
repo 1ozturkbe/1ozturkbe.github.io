@@ -9,7 +9,7 @@ Here I will periodically post research progress updates.
 ## Software 
 
 I believe strongly in open source software. You can follow
-my and my collaborators' research in real time through the following repositories:
+me and my collaborators' research in real time through the following repositories:
 
 - [robust](https://github.com/convexengineering/robust) and 
 [its documentation](http://robust.readthedocs.org/), for engineering
