@@ -1,5 +1,3 @@
-## Welcome !
-
 ## About Me
 
 <img src="data/me-cropped.jpg" width="300">

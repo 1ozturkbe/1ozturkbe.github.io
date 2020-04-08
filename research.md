@@ -15,4 +15,4 @@ Here I will periodically post research progress updates.
 
 _Work in progress..._
 
-[back](./)
+[back]({{site.baseurl}})
