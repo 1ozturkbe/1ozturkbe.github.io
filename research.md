@@ -10,15 +10,7 @@ Here I will periodically post research progress updates.
 
 ## Recent posts
 
-<div class="posts">
-  {% for post in site.posts %}
-    <span>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.date | date_to_string }}
-      <br>
-    </span>
-  {% endfor %}
-</div>
+[Successful thesis proposal defense!](_posts/2020-04-01-thesis-proposal-defense.md)
 
 
 _Work in progress..._
