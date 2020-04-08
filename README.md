@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Welcome !
 
-You can use the [editor on GitHub](https://github.com/1ozturkbe/1ozturkbe.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## About Me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<img src="data/me-cropped.jpg" width="300">
 
-### Markdown
+I am a fourth year graduate student in the MIT AeroAstro department. 
+My current research focuses on methods for enabling engineering design
+using tractable global optimization, using [geometric
+ programming](https://gpkit.readthedocs.io/en/latest/gp101.html)
+and its non-log-convex extension [signomial 
+programming](https://gpkit.readthedocs.io/en/latest/signomialprogramming.html).
+As such, much of my research occurs at the intersection of optimization, 
+machine learning and engineering. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am a member of the [Convex Engineering Group](https://convex.mit.edu/), 
+a group of students interested in leveraging convexity to improve
+the design process. During a typical work week I live and work
+with my colleagues in
+the [Aerospace Computational Design Lab](http://acdl-web.mit.edu/). 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/1ozturkbe/1ozturkbe.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+_Work in progress..._
