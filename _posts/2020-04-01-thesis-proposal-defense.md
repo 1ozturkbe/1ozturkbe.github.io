@@ -6,8 +6,8 @@ post_url: 2020-04-01-thesis-proposal-defense
 categories: [blog, research, phd]
 ---
 
-I have defended my thesis proposal titled **Global Optimization in Engineering Design via Geometric Programming**.
-My committee members include Prof. Mark Drela, Prof. Dimitris Bertsimas and Principal Research Engineer
+I have defended my thesis proposal titled **Global Optimization in Engineering Design via Geometric Programming**.
+My committee members are Prof. Mark Drela, Prof. Dimitris Bertsimas and Principal Research Engineer
 Robert Haimes. I hope to update the website with some of my accomplishments and future
 work soon! But here is the abstract:
 
