@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: page
+title: Blog
 ---
-
-# Blog
 
 Here I will post updates on general life things!
 

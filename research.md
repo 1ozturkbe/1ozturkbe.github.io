@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: page
+title: Research
 ---
-
-# Research
 
 Here I will periodically post research progress updates. 
 
