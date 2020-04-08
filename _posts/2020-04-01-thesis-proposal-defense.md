@@ -2,6 +2,8 @@
 layout: post
 title: Successful thesis proposal defense!
 date: 04/01/2020
+post_url: 2020-04-01-thesis-proposal-defense
+categories: [blog, research, phd]
 ---
 
 I have defended my thesis proposal titled **Global Optimization in Engineering Design via Geometric Programming**.
