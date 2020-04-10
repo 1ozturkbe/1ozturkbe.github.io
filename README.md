@@ -1,7 +1,9 @@
 ---
 layout: default
-title: About Me
 ---
+
+## About Me
+
 <img src="data/me-cropped.jpg" width="300">
 
 I am a fourth year graduate student in the MIT AeroAstro department. 
