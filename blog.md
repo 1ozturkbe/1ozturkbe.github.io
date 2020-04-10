@@ -3,9 +3,9 @@ layout: page
 title: Blog
 ---
 
-Here I will post updates on research as well as general life things!
+Here are some news and updates related to research and life otherwise!
 
-## Recent posts
+## Research updates
 
 [Successful thesis proposal defense!](_posts/2020-04-01-thesis-proposal-defense.md)
 

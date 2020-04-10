@@ -45,10 +45,10 @@ to get notified about new papers.
 
 Below are PDFs of slides and posters I have presented.  
 
-![05/03/2019: ACDL seminar on robust signomial programming]({{ site.url }}/data/20190503_ACDLSeminar.pdf)
-![06/19/2019: AIAA Aviation talk on robust signomial programming]({{ site.url }}/data/20190619_AIAAAviation.pdf)
-![08/06/2019: ICCOPT seminar on signomial programming for engineering design]({{ site.url }}/data/20190806_ICCOPT.pdf)
-![12/04/2019: Poster on decision-tree based function approximation]({{ site.url }}/data/20191204_15095poster.pdf)
+[05/03/2019: ACDL seminar on robust signomial programming]({{ site.url }}/data/20190503_ACDLSeminar.pdf)
+[06/19/2019: AIAA Aviation talk on robust signomial programming]({{ site.url }}/data/20190619_AIAAAviation.pdf)
+[08/06/2019: ICCOPT seminar on signomial programming for engineering design]({{ site.url }}/data/20190806_ICCOPT.pdf)
+[12/04/2019: Poster on decision-tree based function approximation]({{ site.url }}/data/20191204_15095poster.pdf)
 
 
-[back]({{ site.url }}/blog)
+[back]({{ site.url }}/research)
