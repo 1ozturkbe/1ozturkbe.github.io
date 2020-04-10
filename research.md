@@ -3,8 +3,6 @@ layout: page
 title: Research
 ---
 
-You can find all relevant resources to do with my research here. 
-
 ## Software 
 
 I believe strongly in open source software. You can follow
@@ -12,7 +10,7 @@ me and my collaborators' research in real time through the following repositorie
 
 - [GPkit](https://github.com/convexengineering/gpkit) 
 and [its documentation](https://gpkit.readthedocs.io/en/latest/), for
-an intuitive Python package for engineering design leveraging convexity
+a Python package for engineering design leveraging convexity
 and object-oriented programming. 
 - [robust](https://github.com/convexengineering/robust) and 
 [its documentation](http://robust.readthedocs.org/), for engineering
@@ -31,7 +29,7 @@ If you are interested in the above tools, I also recommend visiting the followin
 [its documentation](https://rileyjmurray.github.io/sageopt/), for global optimization
 of signomials and polynomials.
 - [convexengineering](https://github.com/convexengineering), 
-which is a collection of repositories and other resources for using 
+a collection of repositories and other resources for using 
 geometric programming in design. 
 
 ## Publications
@@ -45,10 +43,10 @@ to get notified about new papers.
 
 Below are PDFs of slides and posters I have presented.  
 
-...[05/03/2019: ACDL seminar on robust signomial programming]({{ site.url }}/data/20190503_ACDLSeminar.pdf)..
-...[06/19/2019: AIAA Aviation talk on robust signomial programming]({{ site.url }}/data/20190619_AIAAAviation.pdf)..
-...[08/06/2019: ICCOPT seminar on signomial programming for engineering design]({{ site.url }}/data/20190806_ICCOPT.pdf)..
-...[12/04/2019: Poster on decision-tree based function approximation]({{ site.url }}/data/20191204_15095poster.pdf)..
+   [05/03/2019: ACDL seminar on robust signomial programming]({{ site.url }}/data/20190503_ACDLSeminar.pdf)  
+   [06/19/2019: AIAA Aviation talk on robust signomial programming]({{ site.url }}/data/20190619_AIAAAviation.pdf)  
+   [08/06/2019: ICCOPT seminar on signomial programming for engineering design]({{ site.url }}/data/20190806_ICCOPT.pdf)  
+   [12/04/2019: Poster on decision-tree based function approximation]({{ site.url }}/data/20191204_15095poster.pdf)  
 
 
 [back]({{ site.url }}/research)
