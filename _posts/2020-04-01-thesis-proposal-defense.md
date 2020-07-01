@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 01/04/2020 - Successful thesis proposal defense!
+title: Successful thesis proposal defense!
 date: 01/04/2020
 post_url: 2020-04-01-thesis-proposal-defense
 categories: [blog, research, phd]
