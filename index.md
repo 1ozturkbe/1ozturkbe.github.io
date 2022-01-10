@@ -7,8 +7,8 @@ title: About Me
 
 <img src="data/me-cropped.jpg" width="300">
 
-I am a sixth year graduate student in the MIT AeroAstro department, 
-hoping to graduate in February 2022. 
+I am a sixth year graduate student in the MIT AeroAstro department. I have recently defended my
+thesis and will obtain my PhD after thesis submission in January 2022. 
 My current research focuses on methods for tractable global optimization 
 using machine learning and mixed integer convex optimization. 
 
@@ -25,7 +25,7 @@ and explored how RO improves engineering design decisions under uncertainty.
 
 As I finish my PhD, I am finalizing a global optimization method that can accommodate arbitrary 
 nonconvex, black box and data driven constraints over a bounded variable domain. 
-The method will be submitted to *Operations Research* for review in early October. 
+The method will be submitted to *Operations Research* for review in January 2022. 
 As such, much of my research occurs at the intersection of optimization, machine learning and engineering. 
 
 I was a member of the now defunct [Convex Engineering Group](https://convex.mit.edu/), 
