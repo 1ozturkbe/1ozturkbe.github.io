@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Successful thesis defense!
-date: 01/06/2022
+date: 06/01/2022
 post_url: 2022-01-06-thesis-defense
 categories: [blog, research, phd, optimization, global]
 ---

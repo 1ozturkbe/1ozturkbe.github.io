@@ -47,6 +47,11 @@ Below are PDFs of slides and posters I have presented.
    [06/19/2019: AIAA Aviation talk on robust signomial programming]({{ site.url }}/data/20190619_AIAAAviation.pdf)  
    [08/06/2019: ICCOPT seminar on signomial programming for engineering design]({{ site.url }}/data/20190806_ICCOPT.pdf)  
    [12/04/2019: Poster on decision-tree based function approximation]({{ site.url }}/data/20191204_15095poster.pdf)  
+   [01/06/2022: Thesis defense presentation titled *Global and Robust Optimization for Engineering Design*]({{ site.url }}/data/20220106_ThesisDefense.pdf)  
+
+## PhD Thesis
+   [01/16/2022: Global and Robust Optimization for Engineering Design]({{ site.url }}/data/ozturk-bozturk-PhD-AeroAstro-2022-thesis.pdf)
+
 
 
 [back]({{ site.url }}/research)
