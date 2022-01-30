@@ -23,4 +23,4 @@ Pending the submission of my thesis and global optimization paper in *Operations
 
 Berk 
 
-[back]({{ site.url }}/blog)
+[back]({{site.url}}/blog)
