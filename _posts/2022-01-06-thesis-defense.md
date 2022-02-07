@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Successful thesis defense!
-date: 01/06/2022
+date: 06/01/2022
 post_url: 2022-01-06-thesis-defense
 categories: [blog, research, phd, optimization, global]
 ---
@@ -23,4 +23,4 @@ Pending the submission of my thesis and global optimization paper in *Operations
 
 Berk 
 
-[back]({{ site.url }}/blog)
+[back]({{site.url}}/blog)

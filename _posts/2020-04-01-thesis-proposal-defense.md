@@ -41,4 +41,4 @@ and deterministically, and keep practical concerns for conceptual design
 in focus.*
 
 
-[back]({{ site.url }}/blog)
+[back]({{site.url}}/blog)
