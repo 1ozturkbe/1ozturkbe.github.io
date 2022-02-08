@@ -1,3 +1,6 @@
 title: Berk Ozturk
 description: A researcher working in the intersection of computation and design.
 theme: jekyll-theme-dinky
+
+# Permalinks
+permalink: /posts/:title

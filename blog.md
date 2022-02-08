@@ -7,14 +7,14 @@ Here are some news and updates related to research and life otherwise!
 
 ## Research updates
 
-[02/01/2022 - OCTHaGOn.jl is public!]({{site.url}}/_posts/2022-02-01-octhagon.md)
+[02/01/2022 - OCTHaGOn.jl is public!]({{site.url}}/posts/octhagon.html)
 
-[01/06/2022 - Successful thesis defense!]({{site.url}}/_posts/2022-01-06-thesis-defense.md)
+[01/06/2022 - Successful thesis defense!]({{site.url}}/posts/thesis-defense.html)
 
-[04/17/2021 - TAing Robust Optimization (15.094)]({{site.url}}/_posts/2021-04-17-15094.md)
+[04/17/2021 - TAing Robust Optimization (15.094)]({{site.url}}/posts/15094.html)
 
-[04/05/2021 -  Publication of robust aircraft design paper in AIAA Journal]({{site.url}}/_posts/2021-04-05-AIAARO.md)
+[04/05/2021 -  Publication of robust aircraft design paper in AIAA Journal]({{site.url}}/posts/AIAARO.html)
 
-[04/01/2020 - Successful thesis proposal defense!]({{site.url}}/_posts/2020-04-01-thesis-proposal-defense.md)
+[04/01/2020 - Successful thesis proposal defense!]({{site.url}}/posts/thesis-proposal-defense.html)
 
 [back]({{site.url}})
