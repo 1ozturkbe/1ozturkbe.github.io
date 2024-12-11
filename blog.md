@@ -7,6 +7,8 @@ Here are some news and updates related to research and life otherwise!
 
 ## Research updates
 
+[03/05/2024 - Virtual robust optimization seminar at UC Berkeley Mathematics]({{site.url}}/posts/ucberkeley.html)
+
 [07/21/2023 -  Global optimization paper published in the Journal of Global Optimization!]({{site.url}}/posts/octhagonpub.html)
 
 [02/15/2022 -  Global optimization paper submitted to *OR* and available on arXiv!]({{site.url}}/posts/octhagonarxiv.html)
