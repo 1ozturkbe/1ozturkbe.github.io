@@ -7,6 +7,8 @@ Here are some news and updates related to research and life otherwise!
 
 ## Research updates
 
+[04/11/2025 - Dynamic programming paper submitted to EJOR and available on arXiv!]({{site.url}}/posts/dptarxiv.html)
+
 [03/05/2024 - Virtual robust optimization seminar at UC Berkeley Mathematics]({{site.url}}/posts/ucberkeley.html)
 
 [07/21/2023 -  Global optimization paper published in the Journal of Global Optimization!]({{site.url}}/posts/octhagonpub.html)
