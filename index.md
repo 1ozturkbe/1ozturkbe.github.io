@@ -7,9 +7,10 @@ title: About Me
 
 <img src="data/me-cropped.jpg" width="300">
 
-I am a researcher working at the intersection of engineering, optimization and machine learning. I obtained my PhD in aerospace engineering from MIT in January 2022, working on 
-methods for [global and robust optimization methods for engineering design]({{site.url}}/data/ozturk-bozturk-PhD-AeroAstro-2022-thesis.pdf). A majority of my work is open source and available [here]({{site.url}}/research). 
-Since May 2022, I have been applying my skills at MITRE in the Decision Analytics Group, where I hope to have an impact in the public sector. 
+I am a researcher working at the intersection of engineering and operations research. I obtained my PhD in aerospace engineering from MIT in January 2022, working on 
+methods for [global and robust optimization methods for engineering design]({{site.url}}/data/ozturk-bozturk-PhD-AeroAstro-2022-thesis.pdf). A majority of my graduate work is open source and available [here]({{site.url}}/research). 
+
+Since May 2022, I have been applying my skills at MITRE in the Decision Analytics Group, where I hope to have an impact in the public sector. My current focus is on the application of operations research methods to address problems in aviation safety, in work sponsored by the Federal Aviation Administration (FAA). Most recently, I have been studying how ATC-staffing-related factors impact the likelihood of risky events in the National Airspace System (NAS) using Bayesian causal methods. I am also developing a number of modeling techniques for evaluating the safety and efficacy of separation standards in the NAS. 
 
 In my Master's and PhD work, I was particularly motivated by the potential of optimization
 in improving the engineering design process. 
