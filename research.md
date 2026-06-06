@@ -3,6 +3,35 @@ layout: page
 title: Research
 ---
 
+## Publications
+
+My published works can be found at my 
+[Google Scholar page](https://scholar.google.com/citations?user=XypmqLIAAAAJ&hl=en), and 
+you can [follow me](https://scholar.google.com/citations?user=XypmqLIAAAAJ&hl=en#d=gsc_md_fol)
+to get notified about new papers. 
+
+## Blog
+
+My [blog page]({{site.url}}/blog) is a great way to keep up to date on the latest news and updates related to my research and life otherwise.
+
+## Presentations and Posters
+
+Below are PDFs of slides and posters I have presented.  
+
+   [08/20/2025: Talk on dynamic programming for cyber strategy generation under uncertainty]({{site.url}}/data/20250820_MORS_Presentation.pdf)
+   [03/05/2024: Virtual robust optimization seminar at UC Berkeley Mathematics]({{site.url}}/data/202403_RO.pdf)  
+   [01/06/2022: Thesis defense presentation titled *Global and Robust Optimization for Engineering Design*]({{site.url}}/data/20220106_ThesisDefense.pdf)  
+   [12/04/2019: Poster on *Piecewise Fits of Functions or Data using Optimal Regression Trees*]({{site.url}}/data/20191204_15095poster.pdf)  
+   [08/06/2019: ICCOPT seminar on *Methods and Applications for Signomial Programming in Engineering Design*]({{site.url}}/data/20190806_ICCOPT.pdf)  
+   [06/19/2019: AIAA Aviation talk on *Optimal Aircraft Design Decisions Under Uncertainty via Robust Signomial Programming*]({{site.url}}/data/20190619_AIAAAviation.pdf)  
+   [05/03/2019: ACDL seminar on *Optimal Aircraft Design Decisions Under Uncertainty via Robust Signomial Programming*]({{site.url}}/data/20190503_ACDLSeminar.pdf)  
+
+## PhD Thesis
+   [01/16/2022: *Global and Robust Optimization for Engineering Design*]({{site.url}}/data/ozturk-bozturk-PhD-AeroAstro-2022-thesis.pdf)
+
+## Master's Thesis
+   [02/01/2018: *Conceptual Engineering Design and Optimization Methodologies using Geometric Programming*]({{site.url}}/data/ozturk_masters_thesis.pdf)
+
 ## Software 
 
 I believe strongly in open source software. You can follow
@@ -36,31 +65,5 @@ to find other repositories and resources using
 geometric programming in design. 
 - [Interpretable AI](https://www.interpretable.ai/),
 for interpretable machine learning methods, available under an academic license. 
-
-## Publications
-
-My published works can be found at my 
-[Google Scholar page](https://scholar.google.com/citations?user=XypmqLIAAAAJ&hl=en), and 
-you can [follow me](https://scholar.google.com/citations?user=XypmqLIAAAAJ&hl=en#d=gsc_md_fol)
-to get notified about new papers. 
-
-## Presentations and Posters
-
-Below are PDFs of slides and posters I have presented.  
-
-   [05/03/2019: ACDL seminar on *Optimal Aircraft Design Decisions Under Uncertainty via Robust Signomial Programming*]({{site.url}}/data/20190503_ACDLSeminar.pdf)  
-   [06/19/2019: AIAA Aviation talk on *Optimal Aircraft Design Decisions Under Uncertainty via Robust Signomial Programming*]({{site.url}}/data/20190619_AIAAAviation.pdf)  
-   [08/06/2019: ICCOPT seminar on *Methods and Applications for Signomial Programming in Engineering Design*]({{site.url}}/data/20190806_ICCOPT.pdf)  
-   [12/04/2019: Poster on *Piecewise Fits of Functions or Data using Optimal Regression Trees*]({{site.url}}/data/20191204_15095poster.pdf)  
-   [01/06/2022: Thesis defense presentation titled *Global and Robust Optimization for Engineering Design*]({{site.url}}/data/20220106_ThesisDefense.pdf)  
-   [03/05/2024: Virtual robust optimization seminar at UC Berkeley Mathematics]({{site.url}}/data/202403_RO.pdf)  
-   [08/20/2025: Talk on dynamic programming for cyber strategy generation under uncertainty]({{site.url}}/data/20250820_MORS_Presentation.pdf)
-
-
-## PhD Thesis
-   [01/16/2022: *Global and Robust Optimization for Engineering Design*]({{site.url}}/data/ozturk-bozturk-PhD-AeroAstro-2022-thesis.pdf)
-
-## Master's Thesis
-   [02/01/2018: *Conceptual Engineering Design and Optimization Methodologies using Geometric Programming*]({{site.url}}/data/ozturk_masters_thesis.pdf)
 
 [back]({{site.url}}/research)
