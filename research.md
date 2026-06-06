@@ -53,6 +53,9 @@ Below are PDFs of slides and posters I have presented.
    [08/06/2019: ICCOPT seminar on *Methods and Applications for Signomial Programming in Engineering Design*]({{site.url}}/data/20190806_ICCOPT.pdf)  
    [12/04/2019: Poster on *Piecewise Fits of Functions or Data using Optimal Regression Trees*]({{site.url}}/data/20191204_15095poster.pdf)  
    [01/06/2022: Thesis defense presentation titled *Global and Robust Optimization for Engineering Design*]({{site.url}}/data/20220106_ThesisDefense.pdf)  
+   [03/05/2024: Virtual robust optimization seminar at UC Berkeley Mathematics]({{site.url}}/data/202403_RO.pdf)  
+   [08/20/2025: Talk on dynamic programming for cyber strategy generation under uncertainty]({{site.url}}/data/20250820_MORS_Presentation.pdf)
+
 
 ## PhD Thesis
    [01/16/2022: *Global and Robust Optimization for Engineering Design*]({{site.url}}/data/ozturk-bozturk-PhD-AeroAstro-2022-thesis.pdf)
